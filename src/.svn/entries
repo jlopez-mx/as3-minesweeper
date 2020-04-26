@@ -1,0 +1,35 @@
+8
+
+dir
+2
+https://jlopez%40joselopez.com.mx@as3-minesweeper.googlecode.com/svn/trunk/Minesweeper/src
+https://jlopez%40joselopez.com.mx@as3-minesweeper.googlecode.com/svn
+
+
+
+2011-03-24T22:28:12.465107Z
+2
+jlopez@joselopez.com.mx
+
+
+svn:special svn:externals svn:needs-lock
+
+assets
+dir
+
+Minesweeper.fla
+file
+
+
+
+
+2011-03-24T21:28:09.000000Z
+8ec532292476578d274596ed38de0898
+2011-03-24T22:28:12.465107Z
+2
+jlopez@joselopez.com.mx
+has-props
+
+classes
+dir
+
